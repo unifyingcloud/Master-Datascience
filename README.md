@@ -3,4 +3,4 @@
 
 Initial file for masters
 
-updated version in github.com
+updated to now  version 3 in github.com
