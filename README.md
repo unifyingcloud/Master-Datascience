@@ -1,6 +1,6 @@
 # Master-Datascience
 
 
-Initial file for masters
+Initial file for
 
-updated to now  version 3 in github.com
+updated to version 3 in github.com
